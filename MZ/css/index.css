@@ -1,0 +1,63 @@
+input{
+    outline: none;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: #014805;
+}
+a:focus{
+    color: #014805;
+}
+a:hover{
+    color: #014805;
+}
+.header{
+    margin-top: 100px;
+}
+.box{
+    height: 47px;
+}
+.box>div{
+    width: 49%;
+    float: left;
+    margin: 20px 0; 
+    text-align: center;
+    font-size: 22px;
+}
+.woai{
+    border-right: 1px solid #ccc;
+}
+.hbox{ 
+    color:#1C94ED;
+}
+.btn{
+    width: 100%;
+    margin-top: 10px;
+}
+#dsp{
+    color: #1C94ED;
+}
+#tade,#tade1,#tade2{
+    top:20px;
+}
+
+.form-group {
+    margin-bottom: 0px;
+}
+.yiye1{
+    display: block;
+}
+.yiye2{
+    display: none;
+}
+#ibtn4,#ibtn5,#ibtn6{
+    margin-bottom: 0;
+}
+#tade4{
+    width: 110px;
+    line-height: 45px;
+}
+#lei{
+    margin-top:20px;
+}

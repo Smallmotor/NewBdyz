@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(../img/body_bg.jpg) no-repeat;
+    background-size: 100%;
+}
+input{
+    outline: none;
+    border: 0;
+}
+.header{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.box{
+    background: rgba(0,0,0,0.8);
+    margin-top: 100px;
+    padding: 30px;
+}
+.sp img{
+    width: 20px;
+    height: 20px;
+}
